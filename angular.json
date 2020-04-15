@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "movie-Booking"
+    }
+  },
+  "defaultProject": "movie-Booking",
+  "cli": {
+    "analytics": false
+  }
 }
